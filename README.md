@@ -1,4 +1,6 @@
-![Main Header](https://i.pinimg.com/564x/c4/14/db/c414dbebbd15f8ce3dc6b01749810ec6.jpg)
+<div align="center">
+  <img src="https://i.pinimg.com/564x/c4/14/db/c414dbebbd15f8ce3dc6b01749810ec6.jpg" alt="Main Header">
+</div>
 
 <h1 align="center">Hi 👋, I'm Abdul Nahid</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
