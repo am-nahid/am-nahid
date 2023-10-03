@@ -1,4 +1,5 @@
-https://img.freepik.com/free-vector/programmer-concept-illustration_114360-2284.jpg?size=626&ext=jpg&ga=GA1.1.1573020042.1694699884&semt=ais
+![Alt Text](https://img.freepik.com/free-vector/programmer-concept-illustration_114360-2284.jpg?size=626&ext=jpg&ga=GA1.1.1573020042.1694699884&semt=ais)
+
 <h1 align="center">Hi 👋, I'm Abdul Nahid</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
